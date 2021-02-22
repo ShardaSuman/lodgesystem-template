@@ -1,0 +1,10 @@
+LODGESYSTEM
+---asset
+--------css(We keep css in it)
+--------js (we keep Js)
+--------font (we keep front)
+--------image (we keep image in it)
+bootstrap
+----------Js
+------------
+----------css
